@@ -8,6 +8,7 @@ public class add_three_number {
             int b =sc.nextInt();
             int c =sc.nextInt();
             System.out.print("Average of all number is-----");
+            System.out.println("yoyoy");
             int average = (a+b+c)/3;
             System.out.println(average);
             sc.close();
