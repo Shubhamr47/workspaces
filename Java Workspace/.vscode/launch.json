@@ -1,0 +1,437 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch add_three_number",
+            "request": "launch",
+            "mainClass": "Alpha.add_three_number",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch max_profit",
+            "request": "launch",
+            "mainClass": "of_the.max_profit",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch ave",
+            "request": "launch",
+            "mainClass": "of_the.ave",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch prime_number",
+            "request": "launch",
+            "mainClass": "of_the.prime_number",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Next",
+            "request": "launch",
+            "mainClass": "array.Next",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_of_min_max",
+            "request": "launch",
+            "mainClass": "Data_Structure.Arrays.sum_of_min_max",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Search",
+            "request": "launch",
+            "mainClass": "array.Search",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arguments",
+            "request": "launch",
+            "mainClass": "javabasic.Arguments",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch p_integer",
+            "request": "launch",
+            "mainClass": "javabasic.p_integer",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello_wold",
+            "request": "launch",
+            "mainClass": "javabasic.hello_wold",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "array.Main",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array.array",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch duplicate_elements",
+            "request": "launch",
+            "mainClass": "array.duplicate_elements",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_Subarray",
+            "request": "launch",
+            "mainClass": "array.Maximum_Subarray",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse_number",
+            "request": "launch",
+            "mainClass": "Data_Structure.Arrays.reverse_number",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse_of_arrays",
+            "request": "launch",
+            "mainClass": "Data_Structure.Arrays.reverse_of_arrays",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse_number",
+            "request": "launch",
+            "mainClass": "array.reverse_number",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maximum_and_Minimum",
+            "request": "launch",
+            "mainClass": "Data_Structure.Arrays.Maximum_and_Minimum",
+            "projectName": "Java Workspace_d1cec8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaex",
+            "request": "launch",
+            "mainClass": "Data_Structure.javaex",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDArray2",
+            "request": "launch",
+            "mainClass": "array.TwoDArray2",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDArray",
+            "request": "launch",
+            "mainClass": "array.TwoDArray",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch array2",
+            "request": "launch",
+            "mainClass": "array.array2",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "Function.array",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array.array",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch count_of_positive_negative_zeros_entered",
+            "request": "launch",
+            "mainClass": "Function.count_of_positive_negative_zeros_entered",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch infinite_loop",
+            "request": "launch",
+            "mainClass": "Function.infinite_loop",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch eligible",
+            "request": "launch",
+            "mainClass": "Function.eligible",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex",
+            "request": "launch",
+            "mainClass": "of_the.ex",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch average_of_given_number",
+            "request": "launch",
+            "mainClass": "average_of_given_number",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch odd_even",
+            "request": "launch",
+            "mainClass": "odd_even",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch greater_number",
+            "request": "launch",
+            "mainClass": "Function.greater_number",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch odd_even",
+            "request": "launch",
+            "mainClass": "Function.odd_even",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch average_of_given_number",
+            "request": "launch",
+            "mainClass": "Function.average_of_given_number",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ave",
+            "request": "launch",
+            "mainClass": "of_the.ave",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function",
+            "request": "launch",
+            "mainClass": "Function.Function",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex",
+            "request": "launch",
+            "mainClass": "Function.ex",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch add_to_number",
+            "request": "launch",
+            "mainClass": "add_to_number",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch add_to_number",
+            "request": "launch",
+            "mainClass": "for_the_example.add_to_number",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Average",
+            "request": "launch",
+            "mainClass": "Function.Average",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern8",
+            "request": "launch",
+            "mainClass": "pattern8",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch average",
+            "request": "launch",
+            "mainClass": "Function.average",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch add_2_number",
+            "request": "launch",
+            "mainClass": "Function.add_2_number",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Functions",
+            "request": "launch",
+            "mainClass": "Function.Functions",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern5",
+            "request": "launch",
+            "mainClass": "pattern5",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Functions",
+            "request": "launch",
+            "mainClass": "method_function.Functions",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "Java Workspace_771e2bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern9",
+            "request": "launch",
+            "mainClass": "pattern9",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern8",
+            "request": "launch",
+            "mainClass": "pattern8",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern7",
+            "request": "launch",
+            "mainClass": "pattern7",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern6",
+            "request": "launch",
+            "mainClass": "pattern6",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution3",
+            "request": "launch",
+            "mainClass": "Solution3",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solutions",
+            "request": "launch",
+            "mainClass": "Solutions",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution2",
+            "request": "launch",
+            "mainClass": "Solution2",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "Java_dca6b6bd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "java_49c1cd32"
+        }
+    ]
+}
